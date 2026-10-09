@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Frezer Eshetu 👋
 
-<!--
-**Fireeshetu/Fireeshetu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate
 
-Here are some ideas to get you started:
+I'm passionate about technology and software development, and I enjoy learning how to build practical solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science graduate
+- 💻 Interested in software and web development
+- 🌱 Continuously learning and improving my technical skills
+- 🤝 Open to connecting with developers and exploring opportunities to grow
+
+## 📂 Projects
+
+### 🛒 Fresh Mart — Grocery E-commerce Website
+
+A grocery e-commerce project designed to make browsing products and shopping online easier.
+
+* **Focus:** E-commerce and web development
+* **Repository:** [Add Fresh Mart repository link here]
+
+### 📚 Online Book Publishing System
+
+A web-based project focused on online book publishing and book management.
+
+* **Focus:** Web application development
+* **Repository:** [Add Online Book Publishing repository link here]
+
+### 🇪🇹 Explore Ethiopia
+
+A website project showcasing destinations in Ethiopia.
+
+* **Technology:** HTML
+* **Repository:** [Explore Ethiopia](https://github.com/Fireeshetu/explore-ethiopia)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Fireeshetu
+
+---
+⭐ Thanks for visiting my profile!
